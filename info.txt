@@ -1,1 +1,15 @@
 İsmail Kaan Özer - 22002672 - https://github.com/kaanozer7
+
+Rainbow Six Siege
+
+commit ecdc298359048decd698232bbcd352f573b4d741 (HEAD -> main, origin/main)
+Author: kaanozer7 <kaan.ozer@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 11:09:26 2022 +0300
+
+    İsmail Kaan Özer updated info.txt
+
+commit 271e5584dfd0fcb2bf7183f33bab5b631b7a9467
+Author: kaanozer7 <kaan.ozer@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:59:38 2022 +0300
+
+    Initial commit
